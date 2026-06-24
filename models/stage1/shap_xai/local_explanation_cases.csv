@@ -1,0 +1,4 @@
+case,true_high,xgb_prob_high,text_preview
+highest_prob_high,1,0.9975113868713379,After upgrading to V 3.1.8 Thunderbird fails to start in one user account
+missed_high_near_boundary,1,0.41868627071380615,"thunderbird 50.0b3 windows (10)  no add-ons not listed, can't add add-ons to toolbar and hangs after edit"
+false_high_highest_prob,0,0.8886975646018982,Bs7 jobs failing on nightly Thunderbird builds

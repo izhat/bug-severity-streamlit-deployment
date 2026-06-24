@@ -1,0 +1,45 @@
+project_display,severity_three_class,Bug reports
+Application Services,HIGH,1
+Application Services,LOW,2
+Application Services,MEDIUM,141
+Calendar,HIGH,35
+Calendar,LOW,27
+Calendar,MEDIUM,39
+Core,HIGH,1966
+Core,LOW,3293
+Core,MEDIUM,13297
+DevTools,HIGH,10
+DevTools,LOW,84
+DevTools,MEDIUM,1388
+Fenix,HIGH,319
+Fenix,LOW,546
+Fenix,MEDIUM,1313
+Firefox,HIGH,3269
+Firefox,LOW,3373
+Firefox,MEDIUM,7345
+Focus,HIGH,22
+Focus,LOW,20
+Focus,MEDIUM,69
+GeckoView,HIGH,73
+GeckoView,LOW,52
+GeckoView,MEDIUM,216
+MailNews Core,HIGH,111
+MailNews Core,LOW,32
+MailNews Core,MEDIUM,56
+NSS,HIGH,15
+NSS,LOW,172
+NSS,MEDIUM,39
+Remote Protocol,LOW,6
+Remote Protocol,MEDIUM,211
+Thunderbird,HIGH,2550
+Thunderbird,LOW,1822
+Thunderbird,MEDIUM,6041
+Toolkit,HIGH,182
+Toolkit,LOW,811
+Toolkit,MEDIUM,1692
+Web Compatibility,HIGH,275
+Web Compatibility,LOW,210
+Web Compatibility,MEDIUM,593
+WebExtensions,HIGH,29
+WebExtensions,LOW,163
+WebExtensions,MEDIUM,189

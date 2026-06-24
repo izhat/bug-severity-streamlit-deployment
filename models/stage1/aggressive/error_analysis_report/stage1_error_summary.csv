@@ -1,0 +1,5 @@
+Prediction Outcome,Count,Percentage
+Correct NOT-HIGH,3864,74.21
+Correct HIGH,909,17.46
+HIGH predicted as NOT-HIGH,223,4.28
+NOT-HIGH predicted as HIGH,211,4.05

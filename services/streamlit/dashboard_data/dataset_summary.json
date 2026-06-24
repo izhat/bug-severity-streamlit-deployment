@@ -1,0 +1,12 @@
+{
+  "total_rows": 52099,
+  "total_columns": 82,
+  "project_count": 15,
+  "high_count": 7835,
+  "not_high_count": 44264,
+  "rows_before_final_cleaning": 56730,
+  "rows_retained": 52099,
+  "rows_removed": 4631,
+  "missing_text_removed": 107,
+  "ci_log_like_removed": 4524
+}

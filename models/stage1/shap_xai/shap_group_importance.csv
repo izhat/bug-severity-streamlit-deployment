@@ -1,0 +1,7 @@
+group,mean_abs_shap
+MiniLM semantic embedding,6.413801
+TF-IDF/SVD lexical semantics,4.715579
+Initial-priority features,0.3007401
+GraphLens impact signals,0.22992027
+Other engineered metadata,0.08090815
+Process/text metadata,0.06805084

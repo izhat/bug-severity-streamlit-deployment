@@ -1,0 +1,5 @@
+model,best_threshold,test_accuracy,test_macro_f1,test_low_f1,test_medium_f1,test_low_recall,test_medium_recall
+XGBoost only,0.49,0.8589,0.7824,0.6533,0.9114,0.5741,0.9447
+LightGBM only,0.46,0.8652,0.7873,0.6585,0.916,0.5609,0.957
+Stacked ensemble,0.62,0.8576,0.7891,0.669,0.9093,0.6213,0.9288
+LSTM only,0.34,0.8464,0.765,0.6267,0.9033,0.5565,0.9338

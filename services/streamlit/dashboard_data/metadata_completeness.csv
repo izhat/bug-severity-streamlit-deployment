@@ -1,0 +1,8 @@
+Feature,Available rows,Missing/unknown rows,Completeness (%)
+component,34830,17269,66.8534904700666
+type,34830,17269,66.8534904700666
+platform,34830,17269,66.8534904700666
+op_sys,52099,0,100.0
+initial_priority,5880,46219,11.286205109503062
+initial_priority_clean,5880,46219,11.286205109503062
+creator_experience_level,6821,45278,13.092381811551085
